@@ -1,4 +1,4 @@
-![PHI_Token_Logo](assets/logo.png)
+![PHI_Token_Logo](logo.png)
 
 # PHIQUENCE Token (PHI)
 
