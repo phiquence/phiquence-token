@@ -1,3 +1,5 @@
+![PHI_Token_Logo](assets/logo.png)
+
 # PHIQUENCE Token (PHI)
 
 **Fixed-supply BEP-20 token • Hardhat Deploy & Verify**
