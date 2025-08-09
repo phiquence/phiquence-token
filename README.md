@@ -2,6 +2,7 @@
   <img src="logo.png" alt="PHI Token Logo" width="200">
 </p>
 
+
 # PHIQUENCE Token (PHI)
 
 **Fixed-supply BEP-20 token • Hardhat Deploy & Verify**
