@@ -1,4 +1,6 @@
-![PHI_Token_Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="PHI Token Logo" width="200">
+</p>
 
 # PHIQUENCE Token (PHI)
 
